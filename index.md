@@ -19,3 +19,8 @@ import datetime
 print('Hello, world')
 print(datetime.datetime.today())
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
